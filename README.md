@@ -1,6 +1,6 @@
 
 
-# Shuqa - E-marketplace
+# Shuqa - E-Commerce
 
 ## What is Shuqa? 
 Shuqa is a local online marketplace connecting buyers and sellers within communities. Users can browse listings without an account, but registration is needed to post and manage items. It's designed for local commerce and community interaction.
@@ -72,3 +72,6 @@ The application's health and performance will be monitored using several tools. 
 - Data Security – User credentials are protected through password hashing and secure authentication practices.
 - Scam & Fraud Prevention – Listing validations and user-based filters help prevent spam and fake products.
 - Backup & Recovery Plan – Regular data backups and error handling ensure system stability and user trust.
+
+## Demo of web-application:
+[Video](https://youtu.be/Zrg2Buge7x0?si=BrY6etBNwIJEZ6e6)
